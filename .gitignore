@@ -26,7 +26,7 @@ Thumbs.db
 
 # production
 /build
-/public
+
 
 # misc
 .DS_Store
